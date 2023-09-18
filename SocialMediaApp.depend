@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695059989 source:c:\users\mostafa elgendy\downloads\socialmediaapp\main.cpp
+	<iostream>
+	<fstream>
+	"LinkedList.h"
+
+1695059989 c:\users\mostafa elgendy\downloads\socialmediaapp\linkedlist.h
+	<iostream>
+	"User.h"
+
+1695059989 c:\users\mostafa elgendy\downloads\socialmediaapp\user.h
+	<iostream>
+
